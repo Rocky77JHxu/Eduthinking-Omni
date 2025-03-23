@@ -1,4 +1,4 @@
 # Eduthinking-Omni
 
-Like Ali..., 
+Like Ali..., \n
 Coming Soon ...
